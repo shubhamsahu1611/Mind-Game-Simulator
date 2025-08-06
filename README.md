@@ -37,6 +37,5 @@ This repository contains scripts that solve three core problems:
   - `ques_3a.py`: Heuristic vs. uniform-random opponent simulation.  
   - `ques_3b.py`: Placeholder for DP‐based optimal strategy (`optimal_strategy(state)`).
 
-## Getting Started
 
 
